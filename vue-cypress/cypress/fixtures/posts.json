@@ -1,0 +1,31 @@
+[
+    {
+      "id": 0,
+      "title": "Posts and Us",
+      "content": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestiae necessitatibus quis dignissimos optio, vero iste a voluptatibus nesciunt odit.",
+      "author": "Post Posterson",
+      "created_at": "2020-06-22T11:20:16.812Z"
+    },
+    {
+      "id": 1,
+      "title": "The Joy of reading posts",
+      "content": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestiae necessitatibus quis dignissimos optio, vero iste a voluptatibus nesciunt odit.",
+      "author": "The Postman",
+      "created_at": "2022-05-4T11:20:16.812Z"
+    },
+    {
+      "id": 2,
+      "title": "Posting: why we do it.",
+      "content": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestiae necessitatibus quis dignissimos optio, vero iste a voluptatibus nesciunt odit.",
+      "author": "P. Ost",
+      "created_at": "2022-05-4T11:20:16.812Z"
+    },
+    {
+      "id": 3,
+      "title": "Posting, before you're posted",
+      "content": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex molestiae necessitatibus quis dignissimos optio, vero iste a voluptatibus nesciunt odit.",
+      "author": "Ima Poster",
+      "created_at": "2022-05-4T11:20:16.812Z"
+    }
+  ]
+  

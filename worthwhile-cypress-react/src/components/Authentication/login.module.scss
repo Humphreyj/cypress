@@ -1,0 +1,22 @@
+.login-container  {
+    // @include flexbox(column,center, flex-start);
+    border: 1px solid black;
+    width: 60%;
+    max-width: 25rem;
+    margin: 0 auto;
+    margin-top: 4rem;
+    padding: .5rem 0;
+
+    .login-title {
+        font-weight: 600;
+    }
+    .login-form {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: .5rem 1rem;
+        align-items: center;
+        
+    }
+
+}

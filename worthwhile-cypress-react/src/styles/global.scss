@@ -1,0 +1,19 @@
+//mixins
+@import"./mixins/flexbox";
+
+//common
+@import "./common/inputs.module.scss";
+@import "./common/buttons.module.scss";
+@import "./common/containers.module.scss";
+
+
+
+
+.App {
+    text-align: center;
+  }
+  
+  html,body, .App {
+    font-size: 62.5%;
+}
+  

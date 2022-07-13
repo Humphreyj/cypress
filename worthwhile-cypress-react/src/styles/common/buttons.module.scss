@@ -1,0 +1,23 @@
+.button {
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+.button-login {
+  @extend .button;
+  box-shadow: 1px 1px 3px rgb(0, 0, 0);
+  margin-top: 0.4rem;
+}
+
+.button-logout {
+  @extend .button-login;
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  width: max-content;
+  margin: 0 auto;
+}
+
+.button-submit {
+  @extend .button;
+}

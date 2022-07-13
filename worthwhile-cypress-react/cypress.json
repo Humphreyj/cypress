@@ -1,0 +1,13 @@
+{
+    "baseUrl": "http://localhost:3000/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "retries": {
+        "runMode": 1,
+        "openMode": 1
+      },
+      "env": {
+        "API": "/http://localhost:3030/api/",
+        "products_url": "/products"
+      }
+ }
